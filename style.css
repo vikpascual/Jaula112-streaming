@@ -1,0 +1,172 @@
+html{
+    width: 99%;
+    height: 99%;
+}
+body{
+    width: 99%;
+    height: 101%;
+    background: #352F44;
+}
+/* Cabecera */
+header{
+    display: block;
+    height: 15%;
+}
+a{
+    text-decoration: none;
+}
+div.titulo-cabecera{
+    float: left;
+    margin-left: 5%;
+}
+a.titulo{
+    color: white;
+    cursor: pointer;
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-size: 3vw;
+}
+div.botones-registro{
+    float: right;
+    width:25%;
+    margin-top: -3%;
+}
+a.botones-registro {
+	background-color:transparent;
+	border-radius:42px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+    font-family: "Source Sans Pro", Arial, sans-serif;
+	font-size:1.2vw;
+	padding:2.5%;
+	text-decoration:none;
+    margin-left: 2%;
+}
+div.buscador form input{
+    background-color:transparent;
+	border-radius:42px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	color:#ffffff;
+    font-family: "Source Sans Pro", Arial, sans-serif;
+	font-size:1vw;
+	padding:.5%;
+	text-decoration:none;
+    margin-left: 15%;
+    margin-top: 2%;
+    width: 25%;
+}
+/* Formularios */
+form.formulario-login{
+    position: absolute;
+    top: 38%;
+    left: 38%;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid white;
+    width: 15%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2em;
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-size: 1.2vw;
+    z-index: 1000;
+    display: none;
+
+}
+form.formulario-login input{
+    height: .5%;
+
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid #9147FF;
+}
+form.formulario-login input[type='submit']{
+    margin-top: 4%;
+    border: 1px solid black;
+}
+div.borroso-login{
+    background: rgba(0,0,0,.6);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    display: none;
+}
+div#borroso-login{
+    background: rgba(0,0,0,.6);
+    display: none;
+}
+div#borroso-login.mostrar{
+    background: rgba(0,0,0,.6);
+    position: absolute;
+    width: 120%;
+    height: 130%;
+    z-index: 999;
+    margin-top: -2%;
+    margin-left: -1%;
+    display: block;
+}
+form#login.mostrar{
+    display: block;
+}
+div#borroso-registro{
+    background: rgba(0,0,0,.6);
+    display: none;
+}
+div#borroso-registro.mostrar{
+    background: rgba(0,0,0,.6);
+    position: absolute;
+    width: 120%;
+    height: 130%;
+    z-index: 999;
+    margin-top: -2%;
+    margin-left: -1%;
+    display: block;
+}
+form#registro.mostrar{
+    display: block;
+}
+
+/* Main */
+main h1{
+    color: white;
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    margin-left: 5%;
+    text-decoration: underline;
+    font-size: 2vw;
+}
+div.video{
+    width: 20%;
+    margin-left: 4.25%;
+    padding-bottom:.5%;
+    float: left;
+    font-family: "Source Sans Pro", Arial, sans-serif;
+}
+div.video video{
+    width: 100%;
+    min-height: 225px;
+    max-height: 225px;
+}
+div.video h4{
+    color: white;
+    font-size: 1.3vw;
+    margin-top: -1%;
+}
+div.video h5{
+    color: white;
+    font-size: 1vw;
+    margin-top: -5%;
+}
+div.video-tocho{
+    margin-left: 25%;
+    color: white;
+}
+div.video-tocho video{
+    width: 70%;
+}
+h2{
+    color: white;
+
+}
