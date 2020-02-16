@@ -1,0 +1,85 @@
+2020/02/06 10:40:55 [emerg] 9476#18996: CreateDirectory() "/mnt/hls/" failed (3: FormatMessage() error:(15100))
+2020/02/06 10:41:19 [notice] 1536#10044: sockinit() attempting to access sockapi
+2020/02/06 10:41:19 [notice] 1536#10044: Access to sockapi succeded!
+2020/02/06 10:41:19 [notice] 1536#10044: using sockapi from "4;80;"
+2020/02/06 10:41:19 [notice] 1908#9280: sockinit() attempting to access sockapi
+2020/02/06 10:41:19 [notice] 1908#9280: Access to sockapi succeded!
+2020/02/06 10:41:19 [notice] 1908#9280: using sockapi from "4;8;"
+2020/02/06 11:08:07 [notice] 1912#1884: sockinit() attempting to access sockapi
+2020/02/06 11:08:07 [notice] 1912#1884: Access to sockapi succeded!
+2020/02/06 11:08:07 [notice] 1912#1884: using sockapi from "4;124;"
+2020/02/06 11:08:07 [notice] 13428#19080: sockinit() attempting to access sockapi
+2020/02/06 11:08:07 [notice] 13428#19080: Access to sockapi succeded!
+2020/02/06 11:08:07 [notice] 13428#19080: using sockapi from "4;8;"
+2020/02/06 11:15:05 [notice] 4048#1036: sockinit() attempting to access sockapi
+2020/02/06 11:15:05 [notice] 4048#1036: Access to sockapi succeded!
+2020/02/06 11:15:05 [notice] 4048#1036: using sockapi from "4;116;"
+2020/02/06 11:15:06 [notice] 13140#15180: sockinit() attempting to access sockapi
+2020/02/06 11:15:06 [notice] 13140#15180: Access to sockapi succeded!
+2020/02/06 11:15:06 [notice] 13140#15180: using sockapi from "4;8;"
+2020/02/06 11:25:35 [error] 4048#4952: *2 access forbidden by rule, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/02/06 11:30:29 [error] 13140#10612: *16 CreateFile() "C:\Users\victor\Desktop\nginx/html/robots.txt" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /robots.txt HTTP/1.1", host: "localhost:8000"
+2020/02/06 11:34:09 [error] 4048#4952: *20 CreateFile() "C:\Users\victor\Desktop\nginx/html/robots.txt" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /robots.txt HTTP/1.1", host: "127.0.0.1:8000"
+2020/02/06 11:45:31 [notice] 6956#20132: sockinit() attempting to access sockapi
+2020/02/06 11:45:31 [notice] 6956#20132: Access to sockapi succeded!
+2020/02/06 11:45:31 [notice] 6956#20132: using sockapi from "4;100;"
+2020/02/06 11:45:31 [notice] 6652#16184: sockinit() attempting to access sockapi
+2020/02/06 11:45:31 [notice] 6652#16184: Access to sockapi succeded!
+2020/02/06 11:45:31 [notice] 6652#16184: using sockapi from "4;8;"
+2020/02/06 12:20:11 [emerg] 1056#6288: unknown directive "-------" in C:\Users\victor\Desktop\nginx/conf/nginx.conf:95
+2020/02/06 12:20:24 [notice] 10044#10480: sockinit() attempting to access sockapi
+2020/02/06 12:20:24 [notice] 10044#10480: Access to sockapi succeded!
+2020/02/06 12:20:24 [notice] 10044#10480: using sockapi from "4;112;"
+2020/02/06 12:20:24 [notice] 20084#7668: sockinit() attempting to access sockapi
+2020/02/06 12:20:24 [notice] 20084#7668: Access to sockapi succeded!
+2020/02/06 12:20:24 [notice] 20084#7668: using sockapi from "4;8;"
+2020/02/06 12:21:08 [error] 10044#14608: *3 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-491.ts" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-491.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:21:09 [error] 10044#14608: *3 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-491.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-491.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:21:09 [error] 10044#14608: *3 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-491.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-491.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:21:09 [error] 10044#14608: *3 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-491.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-491.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:21:09 [error] 10044#14608: *3 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-491.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-491.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:21:09 [error] 10044#14608: *3 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-491.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-491.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:21:10 [error] 10044#14608: *4 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-491.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-491.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:23:40 [error] 20084#18972: *14 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-502.ts" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-502.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:23:41 [error] 20084#18972: *14 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-502.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-502.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:23:41 [error] 20084#18972: *14 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-502.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-502.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:23:41 [error] 20084#18972: *14 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-502.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-502.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:23:41 [error] 20084#18972: *14 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-502.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-502.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:23:41 [error] 20084#18972: *14 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test-502.ts" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test-502.ts HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:26:34 [error] 20084#18972: *23 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:26:35 [error] 20084#18972: *23 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:26:35 [error] 20084#18972: *23 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:26:37 [error] 20084#18972: *24 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:26:39 [error] 20084#18972: *24 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 12:28:20 [notice] 19620#16084: sockinit() attempting to access sockapi
+2020/02/06 12:28:20 [notice] 19620#16084: Access to sockapi succeded!
+2020/02/06 12:28:20 [notice] 19620#16084: using sockapi from "4;144;"
+2020/02/06 12:28:20 [notice] 13528#1256: sockinit() attempting to access sockapi
+2020/02/06 12:28:20 [notice] 13528#1256: Access to sockapi succeded!
+2020/02/06 12:28:20 [notice] 13528#1256: using sockapi from "4;8;"
+2020/02/06 13:11:50 [notice] 19688#20344: sockinit() attempting to access sockapi
+2020/02/06 13:11:50 [notice] 19688#20344: Access to sockapi succeded!
+2020/02/06 13:11:50 [notice] 19688#20344: using sockapi from "4;112;"
+2020/02/06 13:11:50 [notice] 9040#9188: sockinit() attempting to access sockapi
+2020/02/06 13:11:50 [notice] 9040#9188: Access to sockapi succeded!
+2020/02/06 13:11:50 [notice] 9040#9188: using sockapi from "4;8;"
+2020/02/06 13:12:02 [error] 19688#2020: *1 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 13:12:03 [error] 19688#2020: *1 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 13:12:20 [error] 19688#2020: *1 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 13:12:21 [error] 19688#2020: *1 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 13:12:25 [error] 19688#2020: *1 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 13:12:26 [error] 19688#2020: *1 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 13:35:07 [error] 9040#12980: *19 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 13:35:08 [error] 9040#12980: *19 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 13:35:41 [error] 19688#2020: *20 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 13:35:42 [error] 19688#2020: *20 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php"
+2020/02/06 13:53:27 [error] 19688#2020: *22 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/test.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/test.m3u8 HTTP/1.1", host: "127.0.0.1:8000", referrer: "http://localhost/directo.php?id=ffd583960652065805eb71d8b92d5841"
+2020/02/06 14:33:08 [error] 19688#2020: *24 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/e6863cf17cd3c03c0070a83f735d2942.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/e6863cf17cd3c03c0070a83f735d2942.m3u8 HTTP/1.1", host: "localhost:8000", referrer: "http://localhost/directo.php?id=e6863cf17cd3c03c0070a83f735d2942"
+2020/02/06 14:33:09 [error] 19688#2020: *24 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/e6863cf17cd3c03c0070a83f735d2942.m3u8" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /hls/e6863cf17cd3c03c0070a83f735d2942.m3u8 HTTP/1.1", host: "localhost:8000", referrer: "http://localhost/directo.php?id=e6863cf17cd3c03c0070a83f735d2942"
+2020/02/13 01:42:11 [notice] 6872#18380: sockinit() attempting to access sockapi
+2020/02/13 01:42:11 [notice] 6872#18380: Access to sockapi succeded!
+2020/02/13 01:42:11 [notice] 6872#18380: using sockapi from "4;84;"
+2020/02/13 01:42:11 [notice] 12504#15140: sockinit() attempting to access sockapi
+2020/02/13 01:42:11 [notice] 12504#15140: Access to sockapi succeded!
+2020/02/13 01:42:11 [notice] 12504#15140: using sockapi from "4;8;"
+2020/02/13 01:42:42 [error] 6872#16836: *2 CreateFile() "C:\Users\victor\Desktop\nginx/html/hls/da8e9cb81844ad1cfc79fdaada17398c.m3u8" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /hls/da8e9cb81844ad1cfc79fdaada17398c.m3u8 HTTP/1.1", host: "localhost:8000", referrer: "http://localhost/micanal.php"
